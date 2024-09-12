@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center"> ![Header](./github-header-image-naresh-ummadi.png) <hr>
+<div align="center">
+  
+<img> ![Header](./github-header-image-naresh-ummadi.png)
+</div>
+<hr>
 
 <h3 align="center">👨🏼‍💻 A Passionate Full Stack Software Developer</h3>
 
@@ -82,14 +86,17 @@ Here are some ideas to get you started:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NareshUmmadi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NareshUmmadi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NareshUmmadi&theme=2077" height="180em" />
-</div>
-
 <p style="text-align:center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NareshUmmadi&" alt="NareshUmmadi" /></p>
+</div>
 
 ### ✍️ Random Dev Quote
 
-<p style="text-align:center;"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quotes"/></p>
+<div align="center">
+<p><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quotes"/></p>
+</div>
 
 ### 🔝 Top Contributed Repo
 
-<p style="text-align:center;"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=NareshUmmadi&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="NareshUmmadi"/></p>
+<div align="center">
+<p><img src="https://github-contributor-stats.vercel.app/api?username=NareshUmmadi&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="NareshUmmadi"/></p>
+</div>
