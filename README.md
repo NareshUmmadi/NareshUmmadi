@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">👨🏼‍💻 A Passionate Full Stack Software Developer</h3>
 
-### 💫 About Me:
+### 💫 About Me
 
 - 👀 Currently looking for full-time positions as a **Fullstack Java Software Developer**, available to start immediately.
 
@@ -34,11 +34,15 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **In the end, it's all about that one semicolon. 😅😅 – Anonymous Developer**
 
+<div align="center">
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0133.gif" width="1024"/>
+</div>
+
 ### 🏆 GitHub Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NareshUmmadi" alt="NareshUmmadi"/></a></p>
 
-### 🌐 Socials:
+### 🌐 Socials
 
 <div align="center">
 
@@ -46,7 +50,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### 🚀 Languages and Tools I Use:
+### 🚀 Languages and Tools I Use
 
 <div align="center">
 
@@ -77,10 +81,9 @@ Here are some ideas to get you started:
 
 </div>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/NareshUmmadi">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NareshUmmadi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NareshUmmadi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NareshUmmadi&theme=2077" height="180em" />
@@ -99,4 +102,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 <p><img src="https://github-contributor-stats.vercel.app/api?username=NareshUmmadi&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="NareshUmmadi"/></p>
+</div>
+
+<div align="center">
+<img src="https://www.animatedimages.org/data/media/931/animated-windows-alert-and-notification-image-0007.gif">
 </div>
